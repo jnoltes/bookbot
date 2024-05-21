@@ -1,2 +1,2 @@
 # bookbot
-course repo
+BookBot is my first project!
